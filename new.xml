@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="new2.xsl"?>
+
+
+    <catalog>
+        <team>
+            <name>Manchester United</name>
+            <stadium>Old Trafford</stadium>
+            <jersey>Red and White</jersey>
+            <titles number="6" weight="1">6</titles>
+            <TitlesCalculation></TitlesCalculation>
+            <substring sub="sub"></substring>
+            <image>
+            <image size="thumb" type="jpg" url="/Astadium.jpg">thumbnail</image>
+            </image>
+        </team>
+        <team>
+            <name>Liverpool</name>
+            <stadium>Annfield</stadium>
+            <jersey>Red</jersey>
+            <titles number="7" weight="1">7</titles>
+            <TitlesCalculation></TitlesCalculation>
+            <substring sub="sub"></substring>
+            <image>
+                <image size="thumb" type="jpg" url="/Astadium.jpg">thumbnail</image>
+            </image>
+        </team>
+        <team>
+            <name>Fullham</name>
+            <stadium>Craven Cottage</stadium>
+            <jersey>Black and White</jersey>
+            <titles number="7" weight="2">2</titles>
+            <TitlesCalculation></TitlesCalculation>
+            <substring sub="sub"></substring>
+            <image>
+            <image size="thumb" type="jpg" url="/Astadium.jpg">thumbnail</image>
+            </image>
+        </team>
+    </catalog>
